@@ -281,7 +281,7 @@ flex-wrap: nowrap;
 .fecha > h3{
   display: inline-flex;
   font-family: 'Birthstone Bounce', cursive;
-  font-size: 1.8em;
+  font-size: 2.5em;
   font-weight:750;
   color:#c2c1bf;
   text-align: center;
@@ -471,6 +471,7 @@ h2.ctofalta{
     text-transform: uppercase;
     box-shadow: 1px 1px 2px #000000;
     margin-top: 25px;
+    margin-bottom: 20px;
     --bs-btn-hover-bg: #000;
     --bs-btn-color: white;
     --bs-btn-color: #fff;
