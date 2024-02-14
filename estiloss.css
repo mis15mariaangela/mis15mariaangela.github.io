@@ -43,6 +43,13 @@ body {
     font-family: 'Birthstone Bounce', cursive;
     font-size: 5em;
   }
+  .tituloss{
+    font-family: 'Birthstone Bounce', cursive;
+    font-size: 3.5em;
+    color: white;
+    text-align: center;
+  }
+  
 
   .portada{
     display: flex;
@@ -280,10 +287,11 @@ flex-wrap: nowrap;
 
 .fecha > h3{
   display: inline-flex;
-  font-family: 'Birthstone Bounce', cursive;
-  font-size: 2.5em;
+
+  font-family: "Montserrat", Sans-serif;
+  font-size: 2em;
   font-weight:750;
-  color:#c2c1bf;
+  color:white;
   text-align: center;
   /* padding: 30px; */
   text-shadow: -1px 0px 1px #000;
@@ -887,7 +895,8 @@ label{
   color: #ffffff;
   font-size: 2.5em;
   margin-top: -17px;
-  font-family: "Birthstone Bounce", Sans-serif;
+  /* font-family: "Birthstone Bounce", Sans-serif; */
+  font-family: "Montserrat", Sans-serif;
 }
 .ayuda>h2{
   font-family: "Montserrat", Sans-serif;
@@ -1327,7 +1336,8 @@ text-align: center;
 }
 .block >h3, h4{
   color: white;
-  font-family: "Birthstone Bounce", Sans-serif;
+  /* font-family: "Birthstone Bounce", Sans-serif; */
+  font-family: "Montserrat", Sans-serif;
   font-size: 2em;
 }
 .box>h1{
