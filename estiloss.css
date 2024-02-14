@@ -849,9 +849,10 @@ align-content: center;
 } */
 label{
   font-family: 'Birthstone Bounce', cursive;
-  font-size: 23px;
+  font-size: 25px;
+  font-weight: 700;
   color: #92f5f8;
-   text-shadow: 2px 1px 2px #252525;  
+   text-shadow: 1px 1px 1px #252525;  
 }
 .blanco{
 
